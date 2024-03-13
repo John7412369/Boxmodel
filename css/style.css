@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&display=swap');
+
+  
+body {
+    background: linear-gradient((to top, #4f0269, rgb(49, 24, 111,))) ; 
+    background:url(https://w0.peakpx.com/wallpaper/565/763/HD-wallpaper-crescent-moon-sky-night.jpg) ;
+    background-size: cover;
+    min-height:50vh ;
+    opacity: 0.7px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.parinte {
+    margin-top: 2%;
+}
+
+
+
+    .copil {
+    float: left;
+    background:linear-gradient(to top left,  rgb(35, 71, 162), rgb(127, 47, 198));
+    height: 350px;
+    width: 30%;
+    border: 3px solid rgb(255, 255, 255);
+    border-radius:10px;
+    margin:10px;
+    overflow:auto;
+    padding: 20px;
+    box-shadow: 5px 5px 5px rgb(21, 0, 255), 0 0 30px rgb(30, 0, 255), 0 0 5px rgb(64, 0, 255);
+    
+    
+}
+
+ .copil img {
+    border: radius 20px;
+    float: left;
+    width: 130px;
+    height: 160px;
+
+}
+h1{
+  font-size: 23px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Fontdiner Swanky', cursive;
+}
+p{
+    font-size: 20px;
+    text-indent: 19px;
+}
+h2{
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+    color: rgb(71, 3, 116);
+}
